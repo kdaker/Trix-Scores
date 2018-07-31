@@ -1,4 +1,4 @@
-# Trix-Scores
+# Trix Scores
 
 Trix Scores calculates your Trix game scores for you without going through the hassle of multiplying, adding and subtracting points. All you need to do is select your cards and your scores are calculated! 
 
