@@ -15,3 +15,4 @@ If you’re submitting a bug, please include as much as detail as you can:
 * Steps to reproduce the bug
 
 [Trix Scores Support Request Form](https://gitreports.com/issue/kdaker/Trix-Scores)
+
