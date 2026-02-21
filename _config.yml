@@ -1,1 +1,6 @@
+title: Trix & Tarneeb Scores
+logo: /assets/app_icon.png
+show_downloads: false
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
